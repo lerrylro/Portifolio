@@ -1,0 +1,164 @@
+.container {
+
+
+}
+.eu {
+
+}
+
+body {
+	background: #ddd;
+}
+
+
+.menu {
+	float: right;
+	width: 450px;
+	font-size: 12pt;
+}
+
+
+.ver1{
+	background: url(v5.jpg);
+	background-color:none;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#imagens .ima{
+	width: 350px;
+	height: 310px;
+}
+
+#imagens h1 {
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	font-style: none;
+	font-size: 28pt;
+	color:rgb(125,125,125);
+}
+
+body {
+	background: white;
+}
+
+#imagens h4 {
+	text-align: center;
+	font-family: "Lucida Console", Monaco, monospace;
+		color:rgb(135,135,135);
+}
+
+
+#imagens .botao {
+	text-align: center;
+}
+
+
+.btn3d.btn-info {
+    box-shadow:0 0 0 1px #00a5c3 inset, 0 0 0 2px rgba(255,255,255,0.15) inset, 0 8px 0 0 #348FD2, 0 8px 8px 1px rgba(0,0,0,0.5);
+    background-color:#39B3D7;
+}
+
+#abaixo h4 {
+	text-align: center;
+
+	font-family: "Lucida Console", Monaco, monospace;
+	color:rgb(125,125,125);
+	
+}
+#abaixo {
+	background-color:black;
+	height: 65px;
+}
+
+
+#abaixo a {
+
+	color:white;
+}
+
+
+.fixo {
+	position: fixed;
+}
+
+section {
+	
+	width: 300px;
+	height: 50px;
+}
+.rede {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 20px;
+	transition: all 0.4s ease-out;
+	border-radius: 50%;
+	text-align: center;
+}
+
+
+.rede:hover{
+	cursor:pointer;
+	transform: translateY(-20px);
+	box-shadow: 4px 30px 16px 3px rgba(50,50,50,.45);
+}
+
+
+.rede#facebook{
+	background: #2372a3;
+}
+.rede#twitter {
+	background: #0084b4;
+}
+
+.rede#instagram{
+	background: #3f729b;
+}
+.rede#youtube {
+	background: #b00;
+}
+.jumb {
+	height: 5px;
+	
+}
+
+.jumb2 {
+	height: 1px;
+}
+/*
+.icone{
+	margin: 0px auto;
+	padding: 21px;
+	width: 72px;
+}
+
+*/
+
+.eu h5 {
+	color: #fff;
+}
+
+.icone{
+	margin: 0px auto;
+	padding: 15px;
+	width: 50px;
+}
+#foto img {
+	width: 500px;
+	height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
